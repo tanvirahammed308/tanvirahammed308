@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [next-dropbox](https://next-dropbox.netlify.app/)
 
-- 🌱 I’m currently learning **nextjs,redux**
+- 🌱 I’m currently learning **core javaScript**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-2525.netlify.app/](https://my-portfolio-2525.netlify.app/)
 
