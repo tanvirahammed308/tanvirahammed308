@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md.Tanvir Ahammed</h1>
-<h3 align="center">A passionate frontend developer from Bnagladesh</h3>
+<h3 align="center">A passionate frontend developer and mern from Bnagladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirahammed308&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirahammed308" /> </p>
 
