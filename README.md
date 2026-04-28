@@ -1,29 +1,74 @@
-<h1 align="center">Hi 👋, I'm Md.Tanvir Ahammed</h1>
-<h3 align="center">A passionate frontend developer and mern from Bnagladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirahammed308&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirahammed308" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvirahammed308" alt="tanvirahammed308" /></a> </p>
-
-- 🔭 I’m currently working on [next-dropbox](https://next-dropbox.netlify.app/)
-
-- 🌱 I’m currently learning **core javaScript**
-
-- 👨‍💻 All of my projects are available at [https://my-portfolio-2525.netlify.app/](https://my-portfolio-2525.netlify.app/)
-
-- 📫 How to reach me **tanvir.ahammed.email@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md.tanvir ahammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md.tanvir ahammed" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=MD%20Tanvir%20Ahammed&desc=Frontend%20Developer%20|%20Mern&descAlign=69&textBg=false&section=header&animation=fadeIn&descSize=30&descAlignY=65" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Md Tanvir Ahammed</h1>
+<h3 align="center">Frontend Developer | MERN Stack Developer</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvirahammed308&show_icons=true&locale=en&layout=compact" alt="tanvirahammed308" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvirahammed308&show_icons=true&locale=en" alt="tanvirahammed308" /></p>
+## 📍 Location & Contact
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirahammed308&" alt="tanvirahammed308" /></p>
+- 📍 Uttara, Dhaka, Bangladesh  
+- 📧 tanvir.ahammed.email@gmail.com  
 
+---
+
+## 🙋‍♂️ About Me
+
+I am a passionate Frontend Developer who loves building modern and scalable web applications.
+
+- 🚀 I’m currently working on a tourism website  
+- 🌱 I’m exploring Next.js & TypeScript  
+- 💼 Working with MERN Stack  
+- 🎯 Focused on building clean UI & smooth UX  
+
+---
+
+## 🚀 Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,nodejs,express,mongodb,git,github,figma" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/tanvirahammed308">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/tanvir-ahammed-701593278/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvirahammed308&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirahammed308&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirahammed308&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvirahammed308&theme=tokyo-night" />
+</p>
+
+---
+
+⭐️ From [tanvirahammed308](https://github.com/tanvirahammed308)
